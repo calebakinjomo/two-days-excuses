@@ -10,6 +10,8 @@ The joke's angle: total machine confidence meets total failure. The agent
 ran the task 10,000 times in simulation and it worked every single time —
 then forgot to run it once in reality. One absurd reason, deadpan, with
 the punchline landing on the last word.
+
+Entry: 102 characters, one line, no trailing newline.
 """
 
 EXCUSE = (
